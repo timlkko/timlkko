@@ -1,9 +1,8 @@
 <div align="center">
   
-  <!-- Lain GIF -->
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTd3cDVhajBlMG8zNnZ1ZW1mNHpldnl6ZXZ3M3Z4MWo0MmJydXJpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/112CeAWuyhQX1C/giphy.gif" width="800" height="200" alt="Lain coding"/>
   
-  <h1>Hi there, I'm Timo 👋</h1>
+  <h1>Hi there, I'm Timo</h1>
   <h3>Backend Developer | Linux Enthusiast | DevOps Explorer</h3>
     
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00ADD8&width=435&lines=Go+Backend+Developer;Linux+%26+Open+Source+Enthusiast;DevOps+%26+System+Design+Explorer;Always+learning+new+technologies" alt="Typing SVG" />
@@ -82,7 +81,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;
-  <a href="akcentikoo@gmail.com">
+  <a href="mailto:akcentikoo@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
