@@ -14,7 +14,7 @@
 
 ## 💻 About Me
 
-<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2psMXAyaWI1Z3ozdHRlaDNtenJhZ2hjNmF5Ync1cTFka2p4cTQ1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kQKOG7ZORzHulCUBvj/giphy.gif" width="170" alt="Coding"/>
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2psMXAyaWI1Z3ozdHRlaDNtenJhZ2hjNmF5Ync1cTFka2p4cTQ1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kQKOG7ZORzHulCUBvj/giphy.gif" width="150" alt="Coding"/>
 
 - 👨‍💻 Focused on **Go backend development**, DevOps, and system design
 - ⚙️ Passionate about **low-level tech**, servers, and scalable architectures  
